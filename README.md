@@ -9,3 +9,5 @@ The videos for the survey are found at the following links:
 [WISARD RoSAS 1](https://youtu.be/Yfwb2PsNUsw)
 
 [WISARD RoSAS 2](https://youtu.be/Zhdlc6945Kg)
+
+robotiq_gripper.py courtesy of [UR-RTDE](https://sdurobotics.gitlab.io/ur_rtde/guides/guides.html#use-with-robotiq-gripper)
